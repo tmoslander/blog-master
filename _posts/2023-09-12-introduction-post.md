@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Thomas's Epic Battle with Ruby
+author:
+- Thomas Moslander
 ---
 # It's Finally Here!
 
